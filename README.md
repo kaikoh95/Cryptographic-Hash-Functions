@@ -1,4 +1,7 @@
 # Cryptographic-Hash-Functions
+
+-as adapted from University of Canterbury COSC362 S2-18 course, Lab 5.
+
 Uses and compares cryptographic hash functions (one way and collision free) to demonstrate which one is easier to brute force than the other.
 
 The One-Way Property
